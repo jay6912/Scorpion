@@ -28,11 +28,11 @@
 </xml>
 <plugin>
     <name>Search</name>
-    <link>plugin://plugin.video.collector/?action=search</link>
+    <link>plugin://plugin.video.Scorpion/?action=search</link>
     <thumbnail></thumbnail>
 </plugin>
 <plugin>
     <name>Settings</name>
-    <link>plugin://plugin.video.collector/?action=openSettings</link>
+    <link>plugin://plugin.video.Scorpion/?action=openSettings</link>
     <thumbnail></thumbnail>
 </plugin>
